@@ -22,6 +22,9 @@ Status values: queued | published YYYY-MM-DD (es URL, en URL) | held (reason)
 | 18 | gafas-con-camara-privacidad-colombia | Gafas con cámara y privacidad: qué dice la ley en Colombia | low | smart-glasses-privacy | Smart glasses privacy: what you should know | low | queued |
 | 19 | grabar-partidos-de-tus-hijos | Cómo grabar los partidos de tus hijos sin perderte el partido | low | record-your-kids-game | How to record your kid's game and still watch it | low | queued |
 | 20 | como-no-olvidar-las-cosas | Cómo no olvidar las cosas: recordatorios por voz que sí escuchas | 10–100 | voice-reminders | Voice reminders you actually hear | low | queued |
+| 16 | marketing-para-veterinarias-contenido | Marketing para veterinarios: contenido de tu consultorio sin soltar al paciente | por verificar | veterinarian-marketing-content | Veterinarian marketing: film your clinic work hands-free | por verificar | queued |
+| 17 | gafas-con-camara-para-inmobiliarias | Gafas con cámara para inmobiliarias: recorridos de inmuebles en primera persona | por verificar | real-estate-walkthrough-glasses | Camera glasses for real estate: first-person property walkthroughs | por verificar | queued |
+| 18 | gafas-con-camara-para-fotografos-de-eventos | Gafas con cámara para eventos: el punto de vista del anfitrión y del equipo | por verificar | event-pov-camera-glasses | Camera glasses for events: the host's and crew's point of view | por verificar | queued |
 Never target: "gafas con cámara espía/oculta", "camera glasses without light", translation, navigation, "gafas para ciegos".
 ## Run log
 (newest first)
