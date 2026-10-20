@@ -4,7 +4,7 @@ Status values: queued | published YYYY-MM-DD (es URL, en URL) | held (reason)
 |---|---|---|---|---|---|---|---|
 | 1 | gafas-con-camara | Gafas con cámara: qué resuelven, para quién son y cuánto cuestan en Colombia | 1K–10K | glasses-with-camera | Glasses with a camera: what they solve and who they're for | 10K–100K | published 2026-10-19 (https://blog.oqonlabs.com/gafas-con-camara/, https://blog.oqonlabs.com/en/glasses-with-camera/) |
 | 2 | gafas-inteligentes-colombia-precios | Gafas inteligentes en Colombia: precios y opciones en 2026 | 1K–10K | affordable-smart-glasses | Affordable smart glasses: what you actually get | 1K–10K | published 2026-10-20 (https://blog.oqonlabs.com/gafas-inteligentes-colombia-precios/, https://blog.oqonlabs.com/en/affordable-smart-glasses/) |
-| 3 | conduccion-osea-vs-audio-abierto | Audífonos de conducción ósea vs. gafas con audio abierto | 1K–10K | open-ear-headphones-vs-audio-glasses | Open-ear headphones vs. audio glasses | 10K–100K | queued |
+| 3 | conduccion-osea-vs-audio-abierto | Audífonos de conducción ósea vs. gafas con audio abierto | 1K–10K | open-ear-headphones-vs-audio-glasses | Open-ear headphones vs. audio glasses | 10K–100K | published 2026-10-20 (https://blog.oqonlabs.com/conduccion-osea-vs-audio-abierto/, https://blog.oqonlabs.com/en/open-ear-headphones-vs-audio-glasses/) |
 | 4 | gafas-inteligentes-con-formula | Gafas inteligentes con fórmula: miopía, astigmatismo y deporte | 100–1K | prescription-smart-glasses | Smart glasses with a prescription: how it works | 1K–10K | queued |
 | 5 | que-hacen-gafas-inteligencia-artificial | ¿Qué hacen las gafas con Inteligencia Artificial? | 100–1K | what-ai-glasses-do | What AI glasses actually do | 10K–100K | queued |
 | 6 | alternativa-ray-ban-meta-colombia | Alternativa a las Ray-Ban Meta en Colombia: qué comparar | 100–1K | ray-ban-meta-alternatives | Ray-Ban Meta alternatives: what to compare | 100–1K | queued |
@@ -21,5 +21,6 @@ Status values: queued | published YYYY-MM-DD (es URL, en URL) | held (reason)
 Never target: "gafas con cámara espía/oculta", "camera glasses without light", translation, navigation, "gafas para ciegos".
 ## Run log
 (newest first)
+- 2026-10-20: week 3 published. Hero: Shopify image 03 (front view). Pexels blocked (403) so no in-body stock images; enter.co redirects (301). Bone-conduction mechanism and volume-safety caveat sourced from SlashGear; no competitor prices used.
 - 2026-10-20: week 2 published. Note: shop.oqonlabs.com, enter.co and portafolio.co were unreachable from the run environment; Colombian prices verified via web search snippets, U.S. price via Android Central. Reused the week 1 product photo (no access to the Shopify image list).
 - 2026-10-19: week 1 published (QUEUE.md created on week 2 run).
