@@ -46,7 +46,7 @@ Published reference prices. They change by retailer and promotion.
 | --- | --- | --- |
 | Ray-Ban Meta (Gen 2), U.S. | From $379 | [Front Desk Review, June 2026](https://frontdeskreview.com/product/smart-glasses/ray-ban-meta-gen-2/) |
 | Ray-Ban Meta (Gen 2), Colombia | From $1,860,000 COP | [Enter.co, July 2026](https://enter.co/chips-bits/gadgets/ray-ban-meta-y-oakley-meta-ya-estan-en-colombia-precios-funciones-y-donde-comprarlas) |
-| OQON VISION, Colombia | $350,000 COP launch price (list $500,000 COP) | [oqonlabs.com](https://www.oqonlabs.com/product/oqon-vision-lentes-inteligentes-con-ia) |
+| OQON VISION, Colombia | $350,000 COP launch price (list $500,000 COP) | [oqonlabs.com](https://www.oqonlabs.com/producto/oqon-vision) |
 
 ## Six things to check before you buy
 

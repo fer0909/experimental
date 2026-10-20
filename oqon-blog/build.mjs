@@ -6,7 +6,9 @@ import path from "node:path";
 
 const SITE = "https://blog.oqonlabs.com";
 const MAIN = "https://www.oqonlabs.com";
-const PRODUCT = `${MAIN}/product/oqon-vision-lentes-inteligentes-con-ia`;
+const PRODUCT = `${MAIN}/producto/oqon-vision`;
+const GA4 = "G-52SKY3DBXX";
+const META_PIXEL = "796347656634198";
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
 const OUT = path.join(ROOT, "dist");
 
@@ -144,6 +146,12 @@ ${xdef ? `<link rel="alternate" hreflang="x-default" href="${xdef.href}">` : ""}
 <meta property="og:locale" content="${lang === "es" ? "es_CO" : "en_US"}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="/styles.css">
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"denied"});
+gtag("js",new Date());gtag("config","${GA4}");
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=${GA4}"></script>
 ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</script>`).join("\n")}
 </head>
 <body>
@@ -151,6 +159,15 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j)}</sc
 <main>
 ${body}
 </main>
+<div id="cc" class="cc" hidden><p>${lang === "es" ? "Usamos cookies para medir visitas y mejorar nuestros anuncios." : "We use cookies to measure visits and improve our ads."} <a href="${MAIN}/legal/cookies">${lang === "es" ? "Política de cookies" : "Cookie policy"}</a></p><div><button type="button" data-c="0">${lang === "es" ? "Rechazar" : "Decline"}</button><button type="button" data-c="1" class="ok">${lang === "es" ? "Aceptar" : "Accept"}</button></div></div>
+<script>
+(function(){var K="oqon_blog_consent",v=null;try{v=localStorage.getItem(K)}catch(e){}
+function grant(){gtag("consent","update",{ad_storage:"granted",ad_user_data:"granted",ad_personalization:"granted",analytics_storage:"granted"});
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","${META_PIXEL}");fbq("track","PageView");}
+if(v==="1"){grant();return}if(v==="0")return;var c=document.getElementById("cc");c.hidden=false;
+c.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;var ok=b.getAttribute("data-c")==="1";try{localStorage.setItem(K,ok?"1":"0")}catch(e){}c.hidden=true;if(ok)grant();});
+document.addEventListener("click",function(e){var a=e.target.closest("a.btn");if(a&&window.gtag)gtag("event","click_product",{link_url:a.href});});})();
+</script>
 <footer class="foot"><p>${t.foot}</p><p><a href="${MAIN}/">oqonlabs.com</a> · <a href="mailto:info@oqonlabs.com">info@oqonlabs.com</a></p></footer>
 </body>
 </html>`;

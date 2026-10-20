@@ -47,7 +47,7 @@ Precios de referencia publicados en 2026. Pueden cambiar según la tienda y la p
 | Ray-Ban Meta (Gen 2) | Desde $1.860.000 | [Enter.co, julio de 2026](https://enter.co/chips-bits/gadgets/ray-ban-meta-y-oakley-meta-ya-estan-en-colombia-precios-funciones-y-donde-comprarlas) |
 | Oakley Meta HSTN | Desde $1.940.000 | [Enter.co, julio de 2026](https://enter.co/chips-bits/gadgets/ray-ban-meta-y-oakley-meta-ya-estan-en-colombia-precios-funciones-y-donde-comprarlas) |
 | Ray-Ban Meta Optics (para fórmula) | Desde $2.080.000 | [Enter.co, julio de 2026](https://enter.co/chips-bits/gadgets/ray-ban-meta-y-oakley-meta-ya-estan-en-colombia-precios-funciones-y-donde-comprarlas) |
-| OQON VISION | $350.000 de lanzamiento (lista $500.000) | [oqonlabs.com](https://www.oqonlabs.com/product/oqon-vision-lentes-inteligentes-con-ia) |
+| OQON VISION | $350.000 de lanzamiento (lista $500.000) | [oqonlabs.com](https://www.oqonlabs.com/producto/oqon-vision) |
 
 ## Qué revisar antes de comprar unas gafas con cámara
 
