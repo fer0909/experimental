@@ -6,8 +6,8 @@ lang: es
 pair: affordable-smart-glasses
 date: 2026-10-20
 updated: 2026-10-20
-image: https://cdn.shopify.com/s/files/1/0758/5130/0999/files/oqon-vision-01-2048_a0585c74-b2de-49b5-9a11-1e67829d169c.jpg?v=1788895999
-imageAlt: Gafas inteligentes OQON VISION, vista de tres cuartos
+image: https://cdn.shopify.com/s/files/1/0758/5130/0999/files/oqon-vision-05-2048_02c4b971-9a93-4fd9-b2cb-ad09f5dfc13a.jpg?v=1788896060
+imageAlt: Gafas inteligentes OQON VISION de perfil, con el logo OQON grabado en la varilla negra y los lentes transparentes
 ---
 > En Colombia, las gafas inteligentes de marcas internacionales parten de $1.860.000 (Ray-Ban Meta Gen 2) y suben a $2.080.000 si las quieres con fórmula. También hay opciones nacionales más económicas, como OQON VISION, que cuesta $350.000 de lanzamiento (precio de lista $500.000). La diferencia de precio no es solo la marca: conviene comparar a dónde van tus fotos, si sirven con fórmula, el soporte en español y la garantía en el país.
 
@@ -53,6 +53,29 @@ OQON VISION son gafas de uso diario con Inteligencia Artificial para capturar, p
 - **Confianza para todos:** un LED se enciende siempre que la cámara está activa y no se puede apagar. Incluye stickers para cubrir la cámara.
 - **Para la calle:** IPX5, resisten sudor y lluvia (no son sumergibles). Funcionan con Android y iPhone, e incluyen lentes transparentes y oscuros.
 - **Con fórmula:** son compatibles; los lentes formulados se montan en ópticas aliadas y se venden por separado. Hay 10 ópticas aliadas en Colombia.
+
+## Errores comunes al comprar gafas inteligentes
+
+Pagar de más casi nunca es culpa del precio de lista; suele venir de decisiones tomadas con poca información:
+
+- **Comprar por la marca y no por el uso.** Si lo que vas a hacer es tomar fotos, escuchar música y contestar llamadas, no necesitas pagar por funciones que no vas a tocar.
+- **Olvidar la fórmula.** Si usas lentes formulados, pregunta desde el principio cuánto cuesta montarlos y dónde. Es parte del precio real.
+- **No leer qué necesita el asistente.** Un asistente de voz requiere cuenta, app e internet en el celular. Mejor saberlo antes de comprar que después.
+- **No mirar la política de devolución.** Un plazo claro y un reembolso completo te quitan el riesgo de equivocarte.
+- **Ignorar a dónde van tus archivos.** Tus fotos y videos son tuyos; confirma si se suben a una nube o pasan directo a tu celular.
+
+## Cómo comprar OQON VISION paso a paso
+
+1. Entra a [oqonlabs.com](https://www.oqonlabs.com/producto/oqon-vision) y elige tus gafas.
+2. Paga por anticipado con tarjeta, Bre-B o PSE.
+3. Recibe tus gafas con envío nacional; el costo y el tiempo dependen de tu ciudad.
+4. Descarga la app OQON, crea tu cuenta y empieza a capturar.
+
+Si algo no te convence, tienes 30 días para devolverlas y recibir el 100% de tu dinero.
+
+![Persona con una tarjeta en la mano y las manos sobre un portátil, en medio de una compra en línea](/img/gafas-inteligentes-colombia-precios/pago-en-linea.jpg)
+
+*Foto: SumUp / Unsplash*
 
 Si quieres ver cómo encaja en tu día a día, mira la [guía de gafas con cámara](/gafas-con-camara/).
 

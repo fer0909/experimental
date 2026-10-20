@@ -6,8 +6,8 @@ lang: en
 pair: gafas-inteligentes-colombia-precios
 date: 2026-10-20
 updated: 2026-10-20
-image: https://cdn.shopify.com/s/files/1/0758/5130/0999/files/oqon-vision-01-2048_a0585c74-b2de-49b5-9a11-1e67829d169c.jpg?v=1788895999
-imageAlt: OQON VISION smart glasses, three-quarter view
+image: https://cdn.shopify.com/s/files/1/0758/5130/0999/files/oqon-vision-05-2048_02c4b971-9a93-4fd9-b2cb-ad09f5dfc13a.jpg?v=1788896060
+imageAlt: OQON VISION smart glasses in side profile, with the OQON logo engraved on the black temple and clear lenses
 ---
 > Affordable smart glasses give you the everyday basics: a camera for photos and video, open-ear speakers for music and calls, and in some models a voice assistant. In the U.S., Ray-Ban Meta Gen 2 starts at $379, so "affordable" depends on what you need. Before you pay, compare where your photos are stored, whether a light shows when the camera is on, whether you can add a prescription, and what support and returns look like. OQON VISION, currently sold and shipped in Colombia, is priced at 350,000 COP at launch.
 
@@ -54,6 +54,31 @@ OQON VISION is a pair of everyday glasses with Artificial Intelligence to captur
 - **Made for outdoors:** IPX5, so they resist sweat and rain (not submersible). Android and iPhone, with clear and dark lenses included.
 - **Prescription compatible:** lenses are fitted at partner opticians in Colombia and sold separately.
 
+## Common mistakes when buying smart glasses
+
+Overpaying rarely comes down to the list price. It usually comes from decisions made with too little information:
+
+- **Buying the brand instead of the use.** If you'll take photos, play music and answer calls, you don't need to pay for features you'll never touch.
+- **Forgetting the prescription.** If you wear prescription lenses, ask up front what fitting them costs and who does it. That is part of the real price.
+- **Not reading what the assistant needs.** A voice assistant requires an account, an app and internet on your phone. Better to know before you buy than after.
+- **Skipping the return policy.** A clear window and a full refund remove the risk of getting it wrong.
+- **Ignoring where your files go.** Your photos and video are yours; confirm whether they upload to a cloud or move straight to your phone.
+
+## How to buy OQON VISION, step by step
+
+OQON VISION is currently sold and shipped in Colombia.
+
+1. Go to [oqonlabs.com](https://www.oqonlabs.com/producto/oqon-vision) and pick your glasses.
+2. Pay upfront by card, Bre-B or PSE.
+3. Receive them through national shipping in Colombia; cost and time depend on the city.
+4. Download the OQON app, create your account and start capturing.
+
+If you're not convinced, you have 30 days to return them for a 100% refund.
+
+![A person holding a bank card with both hands on a laptop keyboard, in the middle of an online purchase](/img/affordable-smart-glasses/online-payment.jpg)
+
+*Photo: SumUp / Unsplash*
+
 See also our [guide to glasses with a camera](/en/glasses-with-camera/).
 
 [[CTA]]
@@ -66,7 +91,7 @@ Price depends on what you need. Ray-Ban Meta Gen 2 starts at $379 in the U.S. OQ
 
 ### Are cheaper smart glasses worth it?
 
-They are if they cover what you'll use every day. Compare file storage, assistant language, prescription support and local support instead of price alone.
+They are if they cover what you'll use every day. Compare file storage, assistant language, prescription support and support in your country instead of price alone.
 
 ### Can I use them with a prescription?
 

@@ -241,7 +241,7 @@ ${sitemap.map((s) => `<url><loc>${s.loc}</loc>${s.lastmod ? `<lastmod>${s.lastmo
   const llms = `# OQON blog\n\n> OQON makes OQON VISION, smart glasses with a camera, open-ear audio and an assistant optimized for Spanish, sold in Colombia. Launch price $350.000 COP (list $500.000). Product page: ${PRODUCT}\n\n## Español\n${posts.es.map((p) => `- [${p.meta.title}](${url("es", p.meta.slug)}): ${p.meta.description}`).join("\n")}\n\n## English\n${posts.en.map((p) => `- [${p.meta.title}](${url("en", p.meta.slug)}): ${p.meta.description}`).join("\n")}\n`;
   fs.writeFileSync(path.join(OUT, "llms.txt"), llms);
 
-  for (const f of fs.readdirSync(path.join(ROOT, "static"))) fs.copyFileSync(path.join(ROOT, "static", f), path.join(OUT, f));
+  fs.cpSync(path.join(ROOT, "static"), OUT, { recursive: true });
   console.log(`Built ${posts.es.length} ES + ${posts.en.length} EN posts → dist/`);
 }
 
