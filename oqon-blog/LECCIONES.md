@@ -1,0 +1,2 @@
+# Lecciones editoriales (Fernando)
+- 2026-10-20: publicar también casos de uso por sector (inspecciones, oficios y talleres, marketing para barberías y odontólogos). Tienen prioridad en la cola (semanas 4–7). Siempre con guardrails: grabar solo con conocimiento y consentimiento de las personas (en odontología, consentimiento del paciente), sin promesas legales ni cifras inventadas, y sin mostrar a OQON VISION haciendo lo que no hace.
